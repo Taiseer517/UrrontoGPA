@@ -1,5 +1,15 @@
 # UrrontoGPA
- 
+How to play on PC:
+
+1) Download/clone the repository to your Computer
+2) Run the 'IUB Flappy.exe file' located in 'Urronto GPA 1.0' folder
+3) Enjoy!
+
+How to play on Android:
+1) Move the 'UrrontoGPA.aab' file on your Anndroid Device located in 'Urronto GPA Files'
+2) Install the App on your device
+3) Play!
+
 #Game Interface
 
 ![Screenshot_2023-07-17-21-57-51-704_com TaiseerCo UrrontoGPA](https://github.com/Taiseer517/UrrontoGPA/assets/127662532/7c09949d-e258-43c0-9e7d-894aa75278ae)
