@@ -10,7 +10,7 @@ How to play on Android:
 2) Install the App on your device
 3) Play!
 
-#Game Interface
+GAME INTERFACE:
 
 ![Screenshot_2023-07-17-21-57-51-704_com TaiseerCo UrrontoGPA](https://github.com/Taiseer517/UrrontoGPA/assets/127662532/7c09949d-e258-43c0-9e7d-894aa75278ae)
 
@@ -20,5 +20,5 @@ How to play on Android:
 
 
 
-#Logo:
+LOGO: 
 ![Urronto GPA 2](https://github.com/Taiseer517/UrrontoGPA/assets/127662532/7f742979-d311-41e9-b84f-54b14ea6c4dc)
